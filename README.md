@@ -5,6 +5,7 @@
 
 This is a sample website written in JavaScript utilizing the Kentico Cloud Delivery API to manage and retrieve content. You can register your account for free at <https://app.kenticocloud.com>. For a brief walkthrough, read [Running the React sample app](https://developer.kenticocloud.com/v1/docs/running-react-sample-app) on our Developer Hub.
 
+Text addition 10/29/18
 
 ## Application setup
 
